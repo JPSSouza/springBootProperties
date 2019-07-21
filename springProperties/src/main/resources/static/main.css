@@ -1,0 +1,10 @@
+.nowrap { 
+	white-space:nowrap;
+}
+
+body {
+    background-image: url("https://projects.spring.io/spring-boot/img/project-icon-large.png");
+    background-position: right top;
+    background-repeat: no-repeat;
+    position: absolute;
+}
